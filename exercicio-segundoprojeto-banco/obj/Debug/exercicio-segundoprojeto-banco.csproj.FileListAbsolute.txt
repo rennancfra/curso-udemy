@@ -1,0 +1,7 @@
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\exercicio-segundoprojeto-banco\bin\Debug\exercicio-segundoprojeto-banco.exe.config
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\exercicio-segundoprojeto-banco\bin\Debug\exercicio-segundoprojeto-banco.exe
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\exercicio-segundoprojeto-banco\bin\Debug\exercicio-segundoprojeto-banco.pdb
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\exercicio-segundoprojeto-banco\obj\Debug\exercicio-segundoprojeto-banco.csproj.CoreCompileInputs.cache
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\exercicio-segundoprojeto-banco\obj\Debug\exercicio-segundoprojeto-banco.exe
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\exercicio-segundoprojeto-banco\obj\Debug\exercicio-segundoprojeto-banco.pdb
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\exercicio-segundoprojeto-banco\obj\Debug\exercicio-segundoprojeto-banco.csprojAssemblyReference.cache

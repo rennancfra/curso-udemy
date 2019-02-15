@@ -1,0 +1,7 @@
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\estudo-datas\bin\Debug\estudo-datas.exe.config
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\estudo-datas\bin\Debug\estudo-datas.exe
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\estudo-datas\bin\Debug\estudo-datas.pdb
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\estudo-datas\obj\Debug\estudo-datas.csprojAssemblyReference.cache
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\estudo-datas\obj\Debug\estudo-datas.csproj.CoreCompileInputs.cache
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\estudo-datas\obj\Debug\estudo-datas.exe
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\estudo-datas\obj\Debug\estudo-datas.pdb

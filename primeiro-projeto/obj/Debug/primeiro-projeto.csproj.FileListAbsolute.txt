@@ -1,0 +1,7 @@
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\primeiro-projeto\bin\Debug\primeiro-projeto.exe.config
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\primeiro-projeto\bin\Debug\primeiro-projeto.exe
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\primeiro-projeto\bin\Debug\primeiro-projeto.pdb
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\primeiro-projeto\obj\Debug\primeiro-projeto.csprojResolveAssemblyReference.cache
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\primeiro-projeto\obj\Debug\primeiro-projeto.csproj.CoreCompileInputs.cache
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\primeiro-projeto\obj\Debug\primeiro-projeto.exe
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\primeiro-projeto\obj\Debug\primeiro-projeto.pdb

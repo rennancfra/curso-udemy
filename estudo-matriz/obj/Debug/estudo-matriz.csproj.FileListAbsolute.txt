@@ -1,0 +1,7 @@
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\estudo-matriz\bin\Debug\estudo-matriz.exe.config
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\estudo-matriz\bin\Debug\estudo-matriz.exe
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\estudo-matriz\bin\Debug\estudo-matriz.pdb
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\estudo-matriz\obj\Debug\estudo-matriz.csprojAssemblyReference.cache
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\estudo-matriz\obj\Debug\estudo-matriz.csproj.CoreCompileInputs.cache
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\estudo-matriz\obj\Debug\estudo-matriz.exe
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\estudo-matriz\obj\Debug\estudo-matriz.pdb

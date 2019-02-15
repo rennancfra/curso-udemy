@@ -1,0 +1,7 @@
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\ESTUDO-LISTA\bin\Debug\ESTUDO-LISTA.exe.config
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\ESTUDO-LISTA\bin\Debug\ESTUDO-LISTA.exe
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\ESTUDO-LISTA\bin\Debug\ESTUDO-LISTA.pdb
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\ESTUDO-LISTA\obj\Debug\ESTUDO-LISTA.csprojAssemblyReference.cache
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\ESTUDO-LISTA\obj\Debug\ESTUDO-LISTA.csproj.CoreCompileInputs.cache
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\ESTUDO-LISTA\obj\Debug\ESTUDO-LISTA.exe
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\ESTUDO-LISTA\obj\Debug\ESTUDO-LISTA.pdb

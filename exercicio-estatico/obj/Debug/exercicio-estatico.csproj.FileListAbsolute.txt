@@ -1,0 +1,7 @@
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\exercicio-estatico\bin\Debug\exercicio-estatico.exe.config
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\exercicio-estatico\bin\Debug\exercicio-estatico.exe
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\exercicio-estatico\bin\Debug\exercicio-estatico.pdb
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\exercicio-estatico\obj\Debug\exercicio-estatico.csprojAssemblyReference.cache
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\exercicio-estatico\obj\Debug\exercicio-estatico.csproj.CoreCompileInputs.cache
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\exercicio-estatico\obj\Debug\exercicio-estatico.exe
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\exercicio-estatico\obj\Debug\exercicio-estatico.pdb

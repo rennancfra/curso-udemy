@@ -1,0 +1,7 @@
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\EXERCICIO-LISTA\bin\Debug\EXERCICIO-LISTA.exe.config
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\EXERCICIO-LISTA\bin\Debug\EXERCICIO-LISTA.exe
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\EXERCICIO-LISTA\bin\Debug\EXERCICIO-LISTA.pdb
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\EXERCICIO-LISTA\obj\Debug\EXERCICIO-LISTA.csprojAssemblyReference.cache
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\EXERCICIO-LISTA\obj\Debug\EXERCICIO-LISTA.csproj.CoreCompileInputs.cache
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\EXERCICIO-LISTA\obj\Debug\EXERCICIO-LISTA.exe
+C:\Users\e_rennancf\Desktop\Aulas UDemy\primeiro-projeto\EXERCICIO-LISTA\obj\Debug\EXERCICIO-LISTA.pdb
